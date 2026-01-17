@@ -76,8 +76,8 @@ The Power BI dashboard provides insights such as:
 
 ### 🔗 Dashboard Link
 
-Power BI Dashboard:
-https://app.powerbi.com/view?r=eyJrIjoiYTcxYjA4NzQtNmJhNy00YTE4LWJhZjctNTZmNzgzNzk4NDhmIiwidCI6IjJkYzZkZDEwLTVhZGQtNDNhOC1iODNjLTJlYWJjMWFjYWQzZiJ9
+👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTcxYjA4NzQtNmJhNy00YTE4LWJhZjctNTZmNzgzNzk4NDhmIiwidCI6IjJkYzZkZDEwLTVhZGQtNDNhOC1iODNjLTJlYWJjMWFjYWQzZiJ9)
+
 
 <img width="1429" height="803" alt="image" src="https://github.com/user-attachments/assets/522594cc-1f71-41f1-949f-7a6a0242100c" />
 
@@ -124,6 +124,7 @@ Data Analyst
 ---
 
 ⭐ If you found this project useful, feel free to star the repository!
+
 
 
 
