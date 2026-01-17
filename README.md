@@ -81,6 +81,7 @@ The Power BI dashboard provides insights such as:
 ```
 [View Dashboard](https://app.powerbi.com/groups/me/reports/a8fdbdb2-17ea-48c6-a9bb-ffd8dcd6d3e2/715bf5a289b300d11bb6?experience=power-bi)
 ```
+<img width="1429" height="803" alt="image" src="https://github.com/user-attachments/assets/522594cc-1f71-41f1-949f-7a6a0242100c" />
 
 ---
 
@@ -125,3 +126,4 @@ Data Analyst
 ---
 
 ⭐ If you found this project useful, feel free to star the repository!
+
