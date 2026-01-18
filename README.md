@@ -122,8 +122,7 @@ The Power BI dashboard provides insights such as:
 Data Analyst 
 
 ---
-
-⭐ If you found this project useful, feel free to star the repository!
+
 
 
 
